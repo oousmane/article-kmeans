@@ -20,6 +20,7 @@ Une méthode de clustering des plus utilisées est le kmeans (K-moyennes) q
 L'algorithme est assez simple et intuitif, je vous laisse une vidéo ici.
 
 Dans ce tutoriel, nous allons apprendre comment implémenter la méthode des kmeans sur un jeu données notamment palmerpenguins.
+Si vous le souhaitez une copie pdf de ce tutoriel est disponible [ici](https://drive.google.com/file/d/1-aqo5VaWNJADgb1jL6zUiCH7mTjOBOo4/view?usp=sharing)
 
 # Librairies utiles
 
